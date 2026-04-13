@@ -21,6 +21,12 @@ An interactive and cute Valentine's Day web proposal! Features a dynamic cloud-p
 
 <hr>
 
+<div align="center">
+<h2><a href="https://github.com/R0mb0/Love_link_generator/">👉 Or use this tool to send love! 👈</a></h2>
+</div>
+
+[![01.png](https://github.com/R0mb0/Love_link_generator/blob/main/ReadmeImgs/01.png)](https://r0mb0.github.io/Love_link_generator/)
+
 <h2>🚀 Features</h2>
 <ul>
 <li><strong>Interactive Cloud Canvas</strong>: The background isn't static! Move your mouse or drag your finger across the screen to paint fluffy, dreamy clouds over a soft pink sky.</li>
