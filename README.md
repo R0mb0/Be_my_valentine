@@ -12,15 +12,12 @@
 An interactive and cute Valentine's Day web proposal! Features a dynamic cloud-painting canvas background and a mischievous "No" button that runs away from the cursor. Fully responsive and customizable via URL. ❤️
 </p>
 
-<!-- Badges -->
-
 
 <h2><a href="https://r0mb0.github.io/Be_my_valentine/">👉 Click here to experience the magic! 👈</a></h2>
 
 </div>
 
-<!-- Screenshots -->
-
+[![01.png](https://github.com/R0mb0/Be_my_valentine/blob/main/Readme_Imgs/01.png)](https://r0mb0.github.io/Be_my_valentine/)
 
 <hr>
 
